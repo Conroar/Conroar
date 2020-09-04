@@ -1,13 +1,12 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, My name is Connor - aka [Conroar][website] 👋
 
 [![Website](https://img.shields.io/website?label=conroar.weebly.com&style=for-the-badge&url=https%3A%2F%2Fconroar.weebly.com)](https://conroar.weebly.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student Majoring in Computer Science and Art!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Artificial Inteligence and C#
+- 👯 I’m looking to learn about videography
+- 🥅 2020 Goals: Get a better understanding towards machine learning
 - ⚡ Fun fact: I love to draw and play video games
 
 ### Connect with me:
